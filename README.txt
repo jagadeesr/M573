@@ -5,7 +5,10 @@ jagadeesQeq is to find the roots of quadratic equation of the form a x^2 + b x +
 
 Developed by
 -------------
-Jagadeeswaran
+   Jagadeeswaran
+   Fred J. Hickernell
+   Sou-Cheng Choi
+
 
 Please cite the following presentation:
 
